@@ -1,0 +1,27 @@
+GET http://localhost:5170/todos
+
+###
+GET http://localhost:5170/todos/2
+
+###
+POST http://localhost:5170/todos
+Content-Type: application/json
+
+{
+    "userId": 1,
+    "Title": "Kids and Family",
+    "Complete": false
+}
+
+###
+Put http://localhost:5170/todos/1
+Content-Type: application/json
+
+{
+    "userId": 1,
+    "id": 5,
+    "Title": "asdasd",
+    "Complete": false
+}
+###
+DELETE http://localhost:5170/todos/3
