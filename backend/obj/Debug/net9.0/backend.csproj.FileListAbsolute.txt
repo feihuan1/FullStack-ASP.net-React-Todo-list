@@ -26,3 +26,10 @@ C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\re
 C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\backend.pdb
 C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
 C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\ref\backend.dll
+C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\bin\Debug\net9.0\MinimalApis.Extensions.dll
+C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\bin\Debug\net9.0\MiniValidation.dll
+C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pengf\Desktop\projects\cs\FullStackTodoList\backend\obj\Debug\net9.0\backend.csproj.Up2Date

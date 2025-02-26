@@ -1,8 +1,10 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace backend.Dtos;
 
 public record class UpdateTodoDtos
 (
     int userId,
-    string title,
-    bool complete
+    [Required] [StringLength(50)] string title,
+    [Required] bool complete
 );
